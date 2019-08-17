@@ -7,15 +7,15 @@ Directory
 
 <!--ts-->
    * [Motivation](#Motivation)
-   * [Goal](#Goal)
-   * [Design Choices](#Design_Choices)
-   * [Prerequisites](#Prerequisites)
-   * [Demonstration to Set Up](#Demonstration_to_Set_Up)
-      * [Geometry](#Geometry)
-      * [Textures](#Textures)
-      * [Models](#Models)
-      * [Light](#Light)
-      * [Export](#Export)
+   * [Overview](#Overview)
+   * [Goal](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Aim%20and%20Choice)
+   * [Prerequisites](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Instruction)
+   * [Demonstration to Set Up](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+      * [Geometry](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+      * [Textures](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+      * [Models](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+      * [Light](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
+      * [Export](https://github.com/ZilinSONG/OpenDS-Docuement/tree/master/Details%20about%20code)
    * [References](#References)
    
 <!--te-->
